@@ -9,8 +9,6 @@
 </div>
 
 ## Environment & Tools
-
-
 <a href="https://github.com/DanielElisenberg/dotfiles">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=DanielElisenberg&repo=dotfiles&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" />
 </a>
@@ -42,3 +40,6 @@
 <a href="https://github.com/leiver/KinderKaos">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=leiver&repo=KinderKaos&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" />
 </a>
+
+# Stats
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielElisenberg&size_weight=0.5&count_weight=0.5&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
