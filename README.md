@@ -2,7 +2,7 @@
 <pre>
     💼 Working at @StatisticsNorway
     💻 Python • JS/TS • Rust • JVM
-    📖 Htmx  • SvelteKit • Axum • Micronaut
+    📖 Htmx  • SvelteKit • Axum • Micronaut • Bevy
     🎮 Music • Gaming • GameDev 
 </pre>
 <br><br>
